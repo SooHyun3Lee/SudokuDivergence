@@ -63,7 +63,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\BoardManager.cs" />
+    <Compile Include="Assets\Scripts\BoardSubsetManager.cs" />
+    <Compile Include="Assets\Scripts\ClassicSudoku.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Tile.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/프로그래밍/일병 이수현/SudokuDivergence/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
